@@ -10,4 +10,4 @@ print("You are", age, "years old.")
 if age >= 18:
     print("charan an adult.")
 else:
-    print("siva a minor.")
+    print("charan a minor.")
